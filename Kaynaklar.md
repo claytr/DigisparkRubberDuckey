@@ -1,7 +1,3 @@
-BadUSB hakkında bolca payload bulabilirsiniz ancak Digispark ve benzeri Arduino aygıtlarında kodlar farklı şekildedir ama onunda basit bir çözümü var 
-Github da paylaşılmış bir Converter var  https://cedarctic.github.io/digiQuack/
-
-
 https://drive.google.com/file/d/1SKUrzVhxre5CcuE_envSDwmNik9MRASp/view
 
 Burdaki dosyayı indiriyoruz ve Arduinonun "libraries" dosyasını içine atıyoruz hedefteki dosyaları değiştiriyoruz.
@@ -19,3 +15,10 @@ void setup() {
 }
 
 void loop() {
+
+
+
+Converter için:
+
+BadUSB hakkında bolca payload bulabilirsiniz ancak Digispark ve benzeri Arduino aygıtlarında kodlar farklı şekildedir ama onunda basit bir çözümü var 
+Github da paylaşılmış bir Converter var  https://cedarctic.github.io/digiQuack/
