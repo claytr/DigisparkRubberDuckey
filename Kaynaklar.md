@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
+
+
+
 https://drive.google.com/file/d/1SKUrzVhxre5CcuE_envSDwmNik9MRASp/view
 
 Burdaki dosyayı indiriyoruz ve Arduinonun "libraries" dosyasını içine atıyoruz hedefteki dosyaları değiştiriyoruz.
