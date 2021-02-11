@@ -9,7 +9,7 @@ Konumunda olması gerekiyor hedefteki dosyaları değiştirdiğiz zaman qwerty d
 
 Örnek:
 
-#define kbd_tr_tr
+#define kbd_tr_tr           
 #include "DigiKeyboard.h"
 void setup() {
 }
